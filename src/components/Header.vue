@@ -34,5 +34,11 @@ export default {};
     font-size: 19px;
     text-transform: uppercase;
   }
+
+  @media (max-width: 768px) {
+    .header__title {
+      font-size: 30px;
+    }
+  }
 }
 </style>

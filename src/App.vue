@@ -33,16 +33,14 @@ body {
   margin: 0 auto;
 }
 
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+.block {
+  margin-top: 60px;
+  background-color: #fff;
+  border-radius: 6px;
+  border: 1px solid #6b7280;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 </style>

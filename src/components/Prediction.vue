@@ -231,5 +231,19 @@ export default {
   .prediction__alarm {
     font-weight: 500;
   }
+
+  @media (max-width: 768px) {
+    .prediction__head {
+      grid-template-columns: 1fr;
+    }
+
+    .prediction__body {
+      grid-template-columns: 1fr;
+    }
+
+    .prediction__submit {
+      grid-column: 1 / 2;
+    }
+  }
 }
 </style>
