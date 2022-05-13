@@ -1,19 +1,10 @@
-# neural
+# Sunrise Team
 
-## Project setup
-```
-npm install
-```
+## Нейросеть для предсказания цены криптовалюты
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Официальный репозиторий нейросети для предсказания цены валютного рынка.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Автор: Denis Zagvozdin
+### Дата: 13.05.2022
+### VK: [vk.com/denchik1170](https://vk.com/denchik1170)
+### Сайт: [deniszagvozdin.ru](https://deniszagvozdin.ru/)
